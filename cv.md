@@ -1,10 +1,11 @@
 # Alexandra Ponkratova
 ## Contacts
-### +79829629135
+### +79829629153
 ### ponkratova12@yandex.ru
+### nickname discord AlexandraP(@AlexandraAlt3)
 
 ## Profile
-### I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.
+### I have strong technical skills as well as excellent interpersonal skills. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations.
 
 ### My goal is to learn HTML CSS and JS
 
@@ -25,8 +26,8 @@ return a * b
 > CV
 
 ##Education
-> 2014-2018 Biotechnical systems and technologies Federal State budget educational institution of higher education"A Tyumen industrial University»
-> 2014-2018 Industrial safety and health Federal State budget educational institution of higher education"A Tyumen industrial University»
+* 2014-2018 Biotechnical systems and technologies Federal State budget educational institution of higher education"A Tyumen industrial University»
+* 2014-2018 Industrial safety and health Federal State budget educational institution of higher education"A Tyumen industrial University»
 
 ##Language
 > English Pre-Intermediate
