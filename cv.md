@@ -1,6 +1,9 @@
 # Alexandra P.
+Junior Frontend Developer
+
 ### Contact me
 > **telegram** @Alexandra_Olexandra
+
 
 > **discord** AlexandraP(@AlexandraAlt3)
 
@@ -39,6 +42,13 @@ return num;
 }
 ```
  ## Work experience
+
+ Website 
+ 
+ [Shelter for pets in Boston](https://alexandraalt3.github.io/shelter/);
+
+ [Plants](https://alexandraalt3.github.io/plants/);
+
 
  ## Education
 * 2014-2018 Biotechnical systems and technologies Federal State budget educational institution of higher education "A Tyumen industrial University"
